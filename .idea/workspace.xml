@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c13574-e872-4c82-9027-2943ff128740" name="Changes" comment="assignment-2" />
+    <list default="true" id="51c13574-e872-4c82-9027-2943ff128740" name="Changes" comment="assignment-2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +29,12 @@
     &quot;assignee&quot;: &quot;rauan017&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/rauan017/Software-1.git&quot;,
-    &quot;accountId&quot;: &quot;0cc604e6-4d3b-426a-904d-066f89621252&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rauan017/Software-2.git",
+    "accountId": "0cc604e6-4d3b-426a-904d-066f89621252"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -62,6 +64,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Software\assignment-2.1 — копия\assignment-2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,7 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1758447894279</updated>
       <workItem from="1758447895381" duration="11450000" />
-      <workItem from="1758462914883" duration="2415000" />
+      <workItem from="1758462914883" duration="4271000" />
+      <workItem from="1758610274662" duration="227000" />
     </task>
     <task id="LOCAL-00001" summary="assignment-2">
       <option name="closed" value="true" />
