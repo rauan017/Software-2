@@ -15,3 +15,4 @@ class Rock implements Music {
         return "Rock";
     }
 }
+
